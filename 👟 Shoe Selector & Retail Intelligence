@@ -1,0 +1,36 @@
+An interactive Power BI dashboard designed for retail analysts and consumers to explore, filter, and compare footwear products across major brands and categories. Built to simulate an e-commerce experience with real-time filtering, pricing insights, and product segmentation.
+🧩 Key Features
+- Brand Filters: Adidas, Nike, ASICS, Converse, Reebok, Puma, Salomon, Vans, Decathlon, New Balance, On Running
+- Category Filters:
+- Basketball Shoes
+- Football Shoes
+- Lifestyle & Streetwear
+- Running Shoes
+- Skateboarding Shoes
+- Slides & Slip-ons
+- Tennis & Court Shoes
+- Training & Gym Shoes
+- Walking Shoes
+- Gender Segmentation: Men, Women, Unisex
+- Color Selection: 17 primary colors available
+- Price Range Slider: ₹1,299 to ₹19,999 for dynamic budget filtering
+- Product Table: Displays brand, model, description, price, and total cost
+- Visual Analytics:
+- Circular gauge for product count
+- Bar charts for brand-wise product distribution
+- Gender-based price and product breakdown
+- Variant comparisons for battery, price, and range (if applicable)
+📊 Metrics Tracked
+- Total Products
+- Average Price
+- Max & Min Price
+- Brand Count
+- Gender Distribution
+- Color Diversity
+🛠️ Tech Stack
+Power BI • DAX • Power Query • Excel • UX Design
+🎯 Use Case
+This dashboard helps:
+- Consumers filter and compare shoes based on style, brand, and budget
+- Retail analysts understand product distribution and pricing trends
+- Developers explore e-commerce-style dashboard design in Power BI
